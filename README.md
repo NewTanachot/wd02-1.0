@@ -40,4 +40,12 @@ $ code .
 - 1911310124 Kornkanok Samrit  
 - 1911310132 Tanachot Udomdartporn  
 - 1911310330 Phatchanok Kunsuphakan  
-- 1911310710 Pratch Suntichaikul  
+- 1911310710 Pratch Suntichaikul
+
+# Preview
+
+https://newtanachot.github.io/green-tea-cafe-web-page/
+<p align="center">
+  <img src="./resources/img/charcafe1.png"  width="100%" height="100%"/>
+  <img src="./resources/img/charcafe2.png"  width="100%" height="100%"/>
+</p>
